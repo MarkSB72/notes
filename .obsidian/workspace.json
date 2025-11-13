@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "98177259f183b30b",
+        "id": "25414597e81a7388",
         "type": "tabs",
         "children": [
           {
-            "id": "bf3c5602bb7c6bfe",
+            "id": "45efcd881444c0f6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "ReoGridPorting/ReoGrid3.0移植----WinForm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ReoGrid3.0移植----WinForm"
             }
           }
         ]
@@ -127,13 +131,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3593b4d3b07b2d7",
+  "active": "45efcd881444c0f6",
   "lastOpenFiles": [
+    "consistency-report.md",
+    "ReoGridPorting/ReoGrid3.0移植----WinForm.md",
     "未命名.canvas",
     "未命名.md",
     "未命名",
     "Untitled.base",
-    "ReoGridPorting/ReoGrid3.0移植----WinForm.md",
     "2025-11-13.md",
     "Welcome.md",
     "Untitled.canvas",

@@ -4,5 +4,8 @@
   "newFileFolderPath": "E:\\Learn\\notes",
   "attachmentFolderPath": "./attachments",
   "userIgnoreFilters": null,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }
