@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "c4fd8a3ad0300232",
+    "type": "split",
+    "children": [
+      {
+        "id": "98177259f183b30b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf3c5602bb7c6bfe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d5c2c1e516d06a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e8fd0fe1aeb6d25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43eb0b49944a32d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "55daf0dde798dc67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1cb1ef34860fcf9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "31f1de9dbca374eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de8b42ae00035cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.base",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "a3593b4d3b07b2d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "2ceafcd3ca055831",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a3593b4d3b07b2d7",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "未命名.md",
+    "未命名",
+    "Untitled.base",
+    "ReoGridPorting/ReoGrid3.0移植----WinForm.md",
+    "2025-11-13.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "ReoGridPorting/Pasted image 20251113231003.png",
+    "ReoGridPorting/Pasted image 20251113230900.png",
+    "ReoGridPorting/Pasted image 20251113230602.png",
+    "ReoGridPorting/Pasted image 20251113230537.png",
+    "ReoGridPorting/Pasted image 20251113230510.png",
+    "ReoGridPorting/Pasted image 20251113230424.png",
+    "ReoGridPorting/Pasted image 20251113230343.png",
+    "ReoGridPorting/Pasted image 20251113230124.png",
+    "ReoGridPorting/Pasted image 20251113230024.png",
+    "ReoGridPorting/Pasted image 20251113225832.png",
+    "ReoGridPorting",
+    "create a link.md"
+  ]
+}
