@@ -11,14 +11,10 @@
             "id": "45efcd881444c0f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
         ]
@@ -131,7 +127,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45efcd881444c0f6",
+  "active": "43eb0b49944a32d4",
   "lastOpenFiles": [
     "ReoGridPorting/ReoGrid3.0移植----WinForm.md",
     "未命名.md",
