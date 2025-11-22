@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "173351f73e34fe60",
+        "id": "872306fdce41bb71",
         "type": "tabs",
         "children": [
           {
-            "id": "b07d187b69743766",
+            "id": "fef5c2d33b03e1d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,13 +131,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b07d187b69743766",
+  "active": "fef5c2d33b03e1d5",
   "lastOpenFiles": [
+    "[Versatile.md",
+    "一步步写嵌入式操作系统/01_环境搭建/03_编写代码.md",
+    "一步步写嵌入式操作系统/01_环境搭建/02_QEMU安装.md",
     "一步步写嵌入式操作系统/01_环境搭建/attachments/Pasted image 20251122230859.png",
     "一步步写嵌入式操作系统/01_环境搭建/attachments/Pasted image 20251122230821.png",
     "一步步写嵌入式操作系统/01_环境搭建/attachments/Pasted image 20251122230729.png",
-    "一步步写嵌入式操作系统/01_环境搭建/02_QEMU安装.md",
-    "一步步写嵌入式操作系统/01_环境搭建/03_编写代码.md",
     "一步步写嵌入式操作系统/01_环境搭建/01_Cygwin安装.md",
     "一步步写嵌入式操作系统/01_环境搭建/attachments/Pasted image 20251122223656.png",
     "一步步写嵌入式操作系统/01_环境搭建/attachments/Pasted image 20251122221852.png",
@@ -146,7 +147,6 @@
     "一步步写嵌入式操作系统/01_环境搭建/attachments/Pasted image 20251122221555.png",
     "一步步写嵌入式操作系统/01_环境搭建/attachments/Pasted image 20251122221528.png",
     "一步步写嵌入式操作系统/01_环境搭建/attachments/Pasted image 20251122221436.png",
-    "一步步写嵌入式操作系统/01_环境搭建/attachments/Pasted image 20251122221130.png",
     "未命名.md",
     "一步步写嵌入式操作系统/01_环境搭建/attachments",
     "一步步写嵌入式操作系统/01_环境搭建",
