@@ -7,5 +7,6 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "promptDelete": false
 }
