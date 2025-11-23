@@ -5,7 +5,7 @@
 这里我们使用3.3版本的源码来进行移植
 ![](Pasted%20image%2020251113222451.png)
 
-链接在这：[[[GitHub - unvell/ReoGrid at v3.3.0](https://github.com/unvell/ReoGrid/tree/v3.3.0)]]
+链接在这：[GitHub - unvell/ReoGrid at v3.3.0](https://github.com/unvell/ReoGrid/tree/v3.3.0)
 
 ## 三、拷贝需要的代码
 下载3.3版本的代码，并解压之后，目录结构是下面这个样子的
