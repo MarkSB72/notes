@@ -1,0 +1,2 @@
+要在插件里连接GDB的服务器，要通过TCP 来连接
+简单学习了一下，typescript要用到nodejs的服务，所以最终会调用nodejs提供的net模块来连接TCP服务器

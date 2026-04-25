@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9bbcbb7a3a247e8c",
+        "id": "f19841363e77fca3",
         "type": "tabs",
         "children": [
           {
-            "id": "e70e8e7cc00930ed",
+            "id": "f2c3b6fb25e2439b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vscode插件开发/02_hello_world解析.md",
+                "file": "AutoSAR/01_工具链安装.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_hello_world解析"
-            }
-          },
-          {
-            "id": "35d8f068944262ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vscode插件开发/03_在侧边栏新建一个图标.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03_在侧边栏新建一个图标"
+              "title": "01_工具链安装"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,44 +131,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35d8f068944262ee",
+  "active": "f2c3b6fb25e2439b",
   "lastOpenFiles": [
-    "vscode插件开发/attachments/Pasted image 20251129193051.png",
-    "vscode插件开发/attachments/Pasted image 20251129192821.png",
-    "vscode插件开发/attachments/Pasted image 20251129191409.png",
-    "vscode插件开发/attachments/Pasted image 20251129191222.png",
-    "vscode插件开发/attachments/Pasted image 20251129190908.png",
-    "vscode插件开发/attachments/Pasted image 20251129190858.png",
-    "vscode插件开发/attachments/Pasted image 20251129190620.png",
-    "vscode插件开发/attachments/Pasted image 20251129190500.png",
-    "vscode插件开发/02_hello_world解析.md",
+    "AutoSAR/attachments/Pasted image 20260425145406.png",
+    "AutoSAR/attachments/Pasted image 20260425145337.png",
+    "AutoSAR/attachments/Pasted image 20260425145303.png",
+    "AutoSAR/attachments/Pasted image 20260425145241.png",
+    "AutoSAR/attachments/Pasted image 20260425145007.png",
+    "AutoSAR/attachments/Pasted image 20260425144902.png",
+    "AutoSAR/attachments/Pasted image 20260425144724.png",
+    "AutoSAR/attachments/Pasted image 20260425144652.png",
+    "AutoSAR/attachments/Pasted image 20260425144431.png",
+    "AutoSAR/attachments/Pasted image 20260425144358.png",
+    "AutoSAR/attachments/Pasted image 20260425144255.png",
+    "AutoSAR/attachments",
+    "AutoSAR/01_工具链安装.md",
+    "AutoSAR",
+    "books/设计模式/设计模式：可复用面向对象软件的基础 ([美] Erich Gamma) (Z-Library).pdf",
+    "books/设计模式",
+    "books",
+    "[[翻译转载]在.md",
+    "一步步写嵌入式操作系统/01_环境搭建/03_编写代码.md",
+    "vscode插件开发/04_连接GDB服务器.md",
     "vscode插件开发/03_在侧边栏新建一个图标.md",
+    "vscode插件开发/02_hello_world解析.md",
     "vscode插件开发/01_hello_world.md",
-    "vscode插件开发/attachments/Pasted image 20251129185933.png",
-    "vscode插件开发/attachments/Pasted image 20251129185911.png",
-    "vscode插件开发/attachments/Pasted image 20251129185804.png",
     "vscode插件开发/attachments",
     "consistency-report.md",
     "vscode插件开发/01_hello_world",
-    "未命名",
     "vscode插件开发",
-    "一步步写嵌入式操作系统/01_环境搭建/03_编写代码.md",
     "ReoGridPorting/ReoGrid3.0移植----WinForm.md",
-    "[[翻译转载]在.md",
     "[Versatile.md",
     "一步步写嵌入式操作系统/01_环境搭建/02_QEMU安装.md",
     "一步步写嵌入式操作系统/01_环境搭建/01_Cygwin安装.md",
     "一步步写嵌入式操作系统/01_环境搭建/attachments",
     "一步步写嵌入式操作系统/01_环境搭建",
-    "一步步写嵌入式操作系统",
     "ReoGridPorting/ReoGrid3.0移植----WPF.md",
-    "ReoGridPorting/attachments",
     "未命名.canvas",
-    "Untitled.base",
     "2025-11-13.md",
     "Welcome.md",
     "Untitled.canvas",
-    "ReoGridPorting",
     "create a link.md"
   ]
 }
