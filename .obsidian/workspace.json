@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f19841363e77fca3",
+        "id": "06ceedb40fc757b8",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c3b6fb25e2439b",
+            "id": "a5e5f2eccedca0d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AutoSAR/01_EB tresos Studio 安装.md",
+                "file": "01_AutoSAR_电擎科技教程/01_CAN网络概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_EB tresos Studio 安装"
-            }
-          },
-          {
-            "id": "c7622a342bb748b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AutoSAR/02_MCal安装.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02_MCal安装"
+              "title": "01_CAN网络概述"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -146,8 +133,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7622a342bb748b9",
+  "active": "a5e5f2eccedca0d6",
   "lastOpenFiles": [
+    "01_AutoSAR_电擎科技教程/01_CAN/汽车通讯.drawio",
+    "01_AutoSAR_电擎科技教程/01_CAN",
+    "01_AutoSAR_电擎科技教程/新建文件夹",
+    "02_AI漫剧/01_先导.md",
+    "01_AutoSAR_电擎科技教程/01_CAN网络概述.md",
+    "02_AI漫剧",
+    "01_AutoSAR_电擎科技教程/attachments/Pasted image 20260805215554.png",
+    "01_AutoSAR_电擎科技教程/attachments",
+    "AutoSAR/03_S32K DS安装.md",
+    "01_AutoSAR_电擎科技教程",
+    "AutoSAR/02_MCal安装.md",
+    "AutoSAR/01_EB tresos Studio 安装.md",
     "AutoSAR/attachments/Pasted image 20260425155323.png",
     "AutoSAR/attachments/Pasted image 20260425155303.png",
     "AutoSAR/attachments/Pasted image 20260425155250.png",
@@ -157,10 +156,6 @@
     "AutoSAR/attachments/Pasted image 20260425153146.png",
     "AutoSAR/attachments/Pasted image 20260425152857.png",
     "AutoSAR/attachments/Pasted image 20260425152836.png",
-    "AutoSAR/attachments/Pasted image 20260425152811.png",
-    "AutoSAR/01_EB tresos Studio 安装.md",
-    "AutoSAR/02_MCal安装.md",
-    "AutoSAR/attachments/Pasted image 20260425145406.png",
     "AutoSAR/attachments",
     "AutoSAR",
     "books/设计模式/设计模式：可复用面向对象软件的基础 ([美] Erich Gamma) (Z-Library).pdf",
@@ -172,16 +167,11 @@
     "vscode插件开发/03_在侧边栏新建一个图标.md",
     "vscode插件开发/02_hello_world解析.md",
     "vscode插件开发/01_hello_world.md",
-    "vscode插件开发/attachments",
     "consistency-report.md",
-    "vscode插件开发/01_hello_world",
-    "vscode插件开发",
     "ReoGridPorting/ReoGrid3.0移植----WinForm.md",
     "[Versatile.md",
     "一步步写嵌入式操作系统/01_环境搭建/02_QEMU安装.md",
     "一步步写嵌入式操作系统/01_环境搭建/01_Cygwin安装.md",
-    "一步步写嵌入式操作系统/01_环境搭建/attachments",
-    "一步步写嵌入式操作系统/01_环境搭建",
     "ReoGridPorting/ReoGrid3.0移植----WPF.md",
     "未命名.canvas",
     "2025-11-13.md",
