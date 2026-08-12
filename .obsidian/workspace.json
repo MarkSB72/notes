@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06ceedb40fc757b8",
+        "id": "25e730a247181ab5",
         "type": "tabs",
         "children": [
           {
-            "id": "a5e5f2eccedca0d6",
+            "id": "e1f5bfa056df4e50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_AutoSAR_电擎科技教程/01_CAN网络概述.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01_CAN网络概述"
+              "title": "新标签页"
             }
           }
         ]
@@ -120,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,13 +129,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5e5f2eccedca0d6",
+  "active": "43eb0b49944a32d4",
   "lastOpenFiles": [
+    "01_AutoSAR_电擎科技教程/01_CAN网络概述.md",
+    "01_AutoSAR_电擎科技教程/01_CAN/问题.md",
     "01_AutoSAR_电擎科技教程/01_CAN/汽车通讯.drawio",
     "01_AutoSAR_电擎科技教程/01_CAN",
     "01_AutoSAR_电擎科技教程/新建文件夹",
     "02_AI漫剧/01_先导.md",
-    "01_AutoSAR_电擎科技教程/01_CAN网络概述.md",
     "02_AI漫剧",
     "01_AutoSAR_电擎科技教程/attachments/Pasted image 20260805215554.png",
     "01_AutoSAR_电擎科技教程/attachments",
@@ -160,7 +157,6 @@
     "AutoSAR",
     "books/设计模式/设计模式：可复用面向对象软件的基础 ([美] Erich Gamma) (Z-Library).pdf",
     "books/设计模式",
-    "books",
     "[[翻译转载]在.md",
     "一步步写嵌入式操作系统/01_环境搭建/03_编写代码.md",
     "vscode插件开发/04_连接GDB服务器.md",
